@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+** IMPORTANT!
 
 This project rely on json-server to create a moke api.
 
@@ -11,6 +9,11 @@ First install json-server package globally:
 then run the server:
 
 ### `json-server --watch db.json --port 4000`
+
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
