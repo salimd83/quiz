@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  margin: 40px;
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -40,12 +40,7 @@ textarea {
 /* Sections
    ========================================================================== */
 
-/**
- * Remove the margin in all browsers.
- */
-body {
-  margin: 0;
-}
+
 /**
  * Render the `main` element consistently in IE.
  */

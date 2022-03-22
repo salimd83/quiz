@@ -19,7 +19,15 @@ function Result() {
       })();
   }, [navigate, results]);
 
-  return <p>Results: {score}</p>;
+  return (
+    <>
+      <p>
+        A negative score of -5 means max introvert, a score of 5 means max
+        extrovert
+      </p>
+      <h2>Results: {score}</h2>
+    </>
+  );
 }
 
 export default Result;
