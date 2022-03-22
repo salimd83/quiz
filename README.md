@@ -4,6 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+This project rely on json-server to create a moke api.
+
+First install json-server package globally:
+
+### `npm i g json-server`
+
+the to run the server:
+
+### `json-server --watch db.json --port 4000`
+
 In the project directory, you can run:
 
 ### `npm start`

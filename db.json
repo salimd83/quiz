@@ -1,0 +1,114 @@
+{
+    "questions": [
+        {
+            "id": 0,
+            "text": "Question 1?",
+            "answers": [
+                {
+                    "text": "answer 1.",
+                    "score": 1
+                },
+                {
+                    "text": "answer 2.",
+                    "score": -1
+                },
+                {
+                    "text": "answer 3.",
+                    "score": -1
+                },
+                {
+                    "text": "answer 4.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "text": "Question 2?",
+            "answers": [
+                {
+                    "text": "answer 1.",
+                    "score": 1
+                },
+                {
+                    "text": "answer 2.",
+                    "score": -1
+                },
+                {
+                    "text": "answer 3.",
+                    "score": -1
+                },
+                {
+                    "text": "answer 4.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "text": "Question 3?",
+            "answers": [
+                {
+                    "text": "answer 1.",
+                    "score": 1
+                },
+                {
+                    "text": "answer 2.",
+                    "score": -1
+                },
+                {
+                    "text": "answer 3.",
+                    "score": -1
+                },
+                {
+                    "text": "answer 4.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "text": "Question 4?",
+            "answers": [
+                {
+                    "text": "answer 1.",
+                    "score": 1
+                },
+                {
+                    "text": "answer 2.",
+                    "score": -1
+                },
+                {
+                    "text": "answer 3.",
+                    "score": -1
+                },
+                {
+                    "text": "answer 4.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "text": "Question 5?",
+            "answers": [
+                {
+                    "text": "answer 1.",
+                    "score": 1
+                },
+                {
+                    "text": "answer 2.",
+                    "score": -1
+                },
+                {
+                    "text": "answer 3.",
+                    "score": -1
+                },
+                {
+                    "text": "answer 4.",
+                    "score": 1
+                }
+            ]
+        }
+    ]
+}
